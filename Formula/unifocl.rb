@@ -1,9 +1,9 @@
 class Unifocl < Formula
   desc "Terminal-first Unity development companion"
   homepage "https://github.com/Kiankinakomochi/unifocl"
-  version "2.21.4"
-  url "https://github.com/Kiankinakomochi/unifocl/releases/download/v2.21.4/unifocl-2.21.4-macos-arm64.tar.gz"
-  sha256 "ec8b82513a86c96a3c80b3bccbbcd3cc5cc97e31e55bf01ebe243f24f1049a8c"
+  version "2.22.0"
+  url "https://github.com/Kiankinakomochi/unifocl/releases/download/v2.22.0/unifocl-2.22.0-macos-arm64.tar.gz"
+  sha256 "e22b9a673c08c1e5d405d380c9f4a8b36e2cf613b142e5a2d4f0f7ffbe18ad85"
   license "Apache-2.0"
 
   def install
